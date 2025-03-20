@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_store"
+        android:title="Store"
+        android:icon="@drawable/nav_store"
+        />
+    <item
+        android:id="@+id/nav_whislist"
+        android:title="Whislist"
+        android:icon="@drawable/whislist"
+        />
+    <item
+        android:id="@+id/nav_account"
+        android:title="Account"
+        android:icon="@drawable/btm_account"
+        />
+    <item
+        android:id="@+id/nav_Categories"
+        android:title="Categories"
+        android:icon="@drawable/btm_categories"
+        />
+
+</menu>
